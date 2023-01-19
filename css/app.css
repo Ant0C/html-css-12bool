@@ -1,0 +1,20 @@
+[class^='col'] {
+	padding: 10px;
+	background-color: cornflowerblue;
+	color: white;
+	border: 1px solid white;
+    text-align: center;
+    min-height: 30px;
+}
+
+.col-g {
+	padding: 10px;
+	background-color: greenyellow;
+	color: white;
+	border: 1px solid cornflowerblue;
+    text-align: center;
+}
+
+section {
+	padding: 5px;
+}
